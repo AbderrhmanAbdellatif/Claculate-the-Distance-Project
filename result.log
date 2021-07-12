@@ -1,0 +1,96 @@
+2021-07-12 22:26:42,537 INFO input information of location one is : MKAD Moscow, Russian Federation
+2021-07-12 22:26:42,538 INFO input the seconde Address
+2021-07-12 22:26:42,986 INFO if the specified address is located inside the MKAD
+2021-07-12 22:26:42,986 INFO take the point of first location
+2021-07-12 22:26:42,986 INFO take the point of second location
+2021-07-12 22:26:42,987 INFO take the point of first location is :(37.632206 , 55.898947)
+2021-07-12 22:26:42,987 INFO take the point of second location is :(-99.115868 , 36.952915)
+2021-07-12 22:26:42,987 INFO Get Dictance of two location
+2021-07-12 22:26:42,987 INFO returns the distance in meter
+2021-07-12 22:26:42,987 INFO the distance between  two location is 15159.783350098558 KM
+2021-07-12 22:26:42,989 INFO Get Dictance of two location
+2021-07-12 22:26:42,989 INFO returns the distance in meter
+2021-07-12 22:36:05,407 INFO input information of location one is : MKAD Moscow, Russian Federation
+2021-07-12 22:36:05,407 INFO input the seconde Address
+2021-07-12 22:36:05,942 INFO if the specified address is located inside the MKAD
+2021-07-12 22:36:05,942 INFO take the point of first location
+2021-07-12 22:36:05,943 INFO take the point of second location
+2021-07-12 22:36:05,943 INFO take the point of first location is :(37.632206 , 55.898947)
+2021-07-12 22:36:05,943 INFO take the point of second location is :(28.978178 , 41.011218)
+2021-07-12 22:36:05,943 INFO Get Dictance of two location
+2021-07-12 22:36:05,943 INFO returns the distance in meter
+2021-07-12 22:36:05,943 INFO the distance between  two location is 1683.716929122326 KM
+2021-07-12 22:36:05,944 INFO Get Dictance of two location
+2021-07-12 22:36:05,944 INFO returns the distance in meter
+2021-07-12 22:36:16,349 INFO input information of location one is : MKAD Moscow, Russian Federation
+2021-07-12 22:36:16,349 INFO input information of location one is : MKAD Moscow, Russian Federation
+2021-07-12 22:36:16,349 INFO input the seconde Address
+2021-07-12 22:36:16,349 INFO input the seconde Address
+2021-07-12 22:36:16,824 INFO if the specified address is located inside the MKAD
+2021-07-12 22:36:16,824 INFO if the specified address is located inside the MKAD
+2021-07-12 22:36:16,825 INFO take the point of first location
+2021-07-12 22:36:16,825 INFO take the point of first location
+2021-07-12 22:36:16,825 INFO take the point of second location
+2021-07-12 22:36:16,825 INFO take the point of second location
+2021-07-12 22:36:16,826 INFO take the point of first location is :(37.632206 , 55.898947)
+2021-07-12 22:36:16,826 INFO take the point of first location is :(37.632206 , 55.898947)
+2021-07-12 22:36:16,826 INFO take the point of second location is :(-105.983713 , 54.164145)
+2021-07-12 22:36:16,826 INFO take the point of second location is :(-105.983713 , 54.164145)
+2021-07-12 22:36:16,826 INFO Get Dictance of two location
+2021-07-12 22:36:16,826 INFO Get Dictance of two location
+2021-07-12 22:36:16,826 INFO returns the distance in meter
+2021-07-12 22:36:16,826 INFO returns the distance in meter
+2021-07-12 22:36:16,826 INFO the distance between  two location is 15986.176387034579 KM
+2021-07-12 22:36:16,826 INFO the distance between  two location is 15986.176387034579 KM
+2021-07-12 22:36:16,827 INFO Get Dictance of two location
+2021-07-12 22:36:16,827 INFO Get Dictance of two location
+2021-07-12 22:36:16,827 INFO returns the distance in meter
+2021-07-12 22:36:16,827 INFO returns the distance in meter
+2021-07-12 22:37:17,709 INFO input information of location one is : MKAD Moscow, Russian Federation
+2021-07-12 22:37:17,709 INFO input the seconde Address
+2021-07-12 22:37:18,232 INFO if the specified address is located inside the MKAD
+2021-07-12 22:37:18,232 INFO take the point of first location
+2021-07-12 22:37:18,232 INFO take the point of second location
+2021-07-12 22:37:18,233 INFO take the point of first location is :(37.632206 , 55.898947)
+2021-07-12 22:37:18,233 INFO take the point of second location is :(-105.983713 , 54.164145)
+2021-07-12 22:37:18,233 INFO Get Dictance of two location
+2021-07-12 22:37:18,233 INFO returns the distance in meter
+2021-07-12 22:37:18,233 INFO the distance between  two location is 15986.176387034579 KM
+2021-07-12 22:37:18,233 INFO Get Dictance of two location
+2021-07-12 22:37:18,233 INFO returns the distance in meter
+2021-07-12 22:38:19,592 INFO input information of location one is : MKAD Moscow, Russian Federation
+2021-07-12 22:38:19,593 INFO input the seconde Address
+2021-07-12 22:38:20,263 INFO if the specified address is located inside the MKAD
+2021-07-12 22:38:20,263 INFO take the point of first location
+2021-07-12 22:38:20,263 INFO take the point of second location
+2021-07-12 22:38:20,263 INFO take the point of first location is :(37.632206 , 55.898947)
+2021-07-12 22:38:20,264 INFO take the point of second location is :(-105.983713 , 54.164145)
+2021-07-12 22:38:20,264 INFO Get Dictance of two location
+2021-07-12 22:38:20,264 INFO returns the distance in meter
+2021-07-12 22:38:20,264 INFO the distance between  two location is 15986.176387034579 KM
+2021-07-12 22:38:20,264 INFO Get Dictance of two location
+2021-07-12 22:38:20,264 INFO returns the distance in meter
+2021-07-12 22:38:25,415 INFO input information of location one is : MKAD Moscow, Russian Federation
+2021-07-12 22:38:25,415 INFO input information of location one is : MKAD Moscow, Russian Federation
+2021-07-12 22:38:25,415 INFO input the seconde Address
+2021-07-12 22:38:25,415 INFO input the seconde Address
+2021-07-12 22:38:25,975 INFO if the specified address is located inside the MKAD
+2021-07-12 22:38:25,975 INFO if the specified address is located inside the MKAD
+2021-07-12 22:38:25,975 INFO take the point of first location
+2021-07-12 22:38:25,975 INFO take the point of first location
+2021-07-12 22:38:25,975 INFO take the point of second location
+2021-07-12 22:38:25,975 INFO take the point of second location
+2021-07-12 22:38:25,976 INFO take the point of first location is :(37.632206 , 55.898947)
+2021-07-12 22:38:25,976 INFO take the point of first location is :(37.632206 , 55.898947)
+2021-07-12 22:38:25,976 INFO take the point of second location is :(-105.983713 , 54.164145)
+2021-07-12 22:38:25,976 INFO take the point of second location is :(-105.983713 , 54.164145)
+2021-07-12 22:38:25,976 INFO Get Dictance of two location
+2021-07-12 22:38:25,976 INFO Get Dictance of two location
+2021-07-12 22:38:25,976 INFO returns the distance in meter
+2021-07-12 22:38:25,976 INFO returns the distance in meter
+2021-07-12 22:38:25,976 INFO the distance between  two location is 15986.176387034579 KM
+2021-07-12 22:38:25,976 INFO the distance between  two location is 15986.176387034579 KM
+2021-07-12 22:38:25,977 INFO Get Dictance of two location
+2021-07-12 22:38:25,977 INFO Get Dictance of two location
+2021-07-12 22:38:25,977 INFO returns the distance in meter
+2021-07-12 22:38:25,977 INFO returns the distance in meter

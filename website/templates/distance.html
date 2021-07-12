@@ -1,0 +1,16 @@
+{% extends "base.html" %} {% block title %}claculate the distance{% endblock %} {% block content %}
+<form method="POST">
+    <h3 align="center">claculate the distance</h3>
+    <div class="form-group">
+        <label for="location_one">Location one</label>
+        <input type="location_one" class="form-control" id="location_one" name="location_one" placeholder="MKAD Moscow, Russian Federation" disabled/>
+    </div>
+    <div class="form-group">
+        <label for="location_two">Location two</label>
+        <input type="location_two" class="form-control" id="location_two" name="location_two" placeholder="Enter location" />
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Calculate</button>
+    <h3 align="center">{{data}}</h3>
+</form>
+{% endblock %}
